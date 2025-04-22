@@ -1,4 +1,19 @@
-# CRUD MongoDB written in Python
+# CRUD MongoDB Module written in Python
+
+## Journal Reflections
+
+### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+#### Writing code that can be easily read is ideal. However, writing a working solution is important. Once this is established, iterations can be made for improvements and to ensure there are no added regressions in the code. This CRUD Pyton module could be reused as a foundation for any working API.
+
+### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+#### Similar to art, in coding, a rough draft can be created. What will the canvas look like and where will the elemenets, components, objects or modules go? Sometimes erasing and reorganizing things to make them work is the process one must go through to get a polished solution. Trial and error help improve the code. Sometimes something is written and the developer thinks it is working only to find that when a user tries the product, it is broken. Through testing and iteration code can be written to ensure functionality.
+
+### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+#### Computer scientists work on fnding solutions to problems in order to ideally improve something. Work on a project like this would help place dogs in this scenario into the correct training for the type and breed of dog. This would help the company save resources and keep their clients happy in order to provide life improving services.
+
 
 ## Grazioso Salvare
 This open-source program provides read and write CRUD functionality to Grazioso Salvare database. 
