@@ -38,7 +38,7 @@ The purpose of the CRUD Python module is to provide an easy way to interact with
 ### Create: Adds a new document to the specified collection
 ### Read: Retrieves or “gets” a document or list of documents based upon filtering
 ### Update: Modifies a document based on specified filter
-###Delete: Removes document(s) from the database collection
+### Delete: Removes document(s) from the database collection
 
 ## Using the CRUD Module
 In order to utilize the CRUD Module, an instance of MongoDB should be run with the Python “pymongo” driver. 
